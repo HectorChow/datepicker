@@ -2,4 +2,4 @@
 
 > A simple jQuery datepicker plugin.
 
-- [Homepage](http://fengyuanchen.github.io/datepicker)
+- [Website](https://fengyuanchen.github.io/datepicker)
